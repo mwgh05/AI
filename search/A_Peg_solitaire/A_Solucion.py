@@ -126,9 +126,7 @@ def heuristic(board):
     return count_pegs(board) - 1
 
 
-# ---------------------------------------------------------------------------
-# 5. IMPLEMENTACIÓN DEL ALGORITMO A*
-# ---------------------------------------------------------------------------
+# 5. clase principal del nodo para A* y función de búsqueda A*
 
 class AStarNode:
     """

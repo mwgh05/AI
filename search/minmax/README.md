@@ -1,5 +1,9 @@
 # Reporte: Minmax para Dot and Boxes (Timbiriche)
 
+Autoria de:
+- Melanie  Wong Herrera
+- Andrés Mora Urbina
+
 ## 1. Objetivo
 Implementar una solucion para Dot and Boxes usando Minmax con poda Alpha-Beta, incluyendo:
 - Representacion de estado del tablero.
